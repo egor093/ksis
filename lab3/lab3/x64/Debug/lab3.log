@@ -1,0 +1,6 @@
+﻿  lab3.cpp
+E:\study\ksis\lab3\lab3\lab3.cpp(93,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\study\ksis\lab3\lab3\lab3.cpp(109,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\study\ksis\lab3\lab3\lab3.cpp(114,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\study\ksis\lab3\lab3\lab3.cpp(119,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab3.vcxproj -> E:\study\ksis\lab3\x64\Debug\serv.exe
